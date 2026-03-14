@@ -1,0 +1,30 @@
+#Credenciales y variables de entorno (¡CRÍTICO!)
+
+credenciales.json
+.env
+
+#Archivos temporales de datos que genera tu agente
+
+datos_temporales.json
+*.csv
+historial_consultas_agente.txt
+
+#Carpetas ocultas del framework ADK
+
+.adk/
+
+#Entornos virtuales de Python (si tienes uno)
+adkweb/
+.venv/
+env/
+pycache/
+
+#archivos python local
+
+poblar_bigquery.py
+
+test_conexion.py
+
+gerente/__pycache__/__init__.cpython-311.pyc
+
+gerente/__pycache__/agent.cpython-311.pyc
