@@ -6,7 +6,6 @@ credenciales.json
 #Archivos temporales de datos que genera tu agente
 
 datos_temporales.json
-*.csv
 historial_consultas_agente.txt
 
 #Carpetas ocultas del framework ADK
