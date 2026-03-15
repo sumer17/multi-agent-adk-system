@@ -18,13 +18,13 @@ adkweb/
 .venv/
 env/
 pycache/
+gerente/__pycache__/
 
 #archivos python local
 
 poblar_bigquery.py
-
 test_conexion.py
-
-gerente/__pycache__/__init__.cpython-311.pyc
-
-gerente/__pycache__/agent.cpython-311.pyc
+gerente/__pycache__/
+gerente/sub_agent/__pycache__/
+gerente/sub_agent/analista_bd/__pycache__/
+gerente/sub_agent/analista_bd/esquemas_tablas.txt
