@@ -1,0 +1,1 @@
+from .analista_bd.agent import agente_analista as agente_analista
